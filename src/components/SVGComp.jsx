@@ -41,3 +41,5 @@ function SVGComp () {
     )
 }
 export default SVGComp
+
+
